@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/shooter-cmake2.dir/main.cpp.o -o shooter-cmake2  -lSDL2 -lSDL2_image -lSDL2 -lSDL2_image 

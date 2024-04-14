@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/SDL_LESSON.dir/main.cpp.o CMakeFiles/SDL_LESSON.dir/utils.cpp.o -o SDL_LESSON  -lSDL2 -lSDL2_image -lSDL2 -lSDL2_image 
