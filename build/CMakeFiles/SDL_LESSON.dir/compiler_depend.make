@@ -320,7 +320,37 @@ CMakeFiles/SDL_LESSON.dir/main.cpp.o: ../main.cpp \
   /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
   /usr/include/c++/11/bits/charconv.h \
   /usr/include/c++/11/bits/basic_string.tcc \
-  ../utils.h
+  /usr/include/c++/11/iostream \
+  /usr/include/c++/11/ostream \
+  /usr/include/c++/11/ios \
+  /usr/include/c++/11/exception \
+  /usr/include/c++/11/bits/exception_ptr.h \
+  /usr/include/c++/11/bits/cxxabi_init_exception.h \
+  /usr/include/c++/11/typeinfo \
+  /usr/include/c++/11/bits/nested_exception.h \
+  /usr/include/c++/11/bits/ios_base.h \
+  /usr/include/c++/11/bits/locale_classes.h \
+  /usr/include/c++/11/bits/locale_classes.tcc \
+  /usr/include/c++/11/system_error \
+  /usr/include/x86_64-linux-gnu/c++/11/bits/error_constants.h \
+  /usr/include/c++/11/stdexcept \
+  /usr/include/c++/11/streambuf \
+  /usr/include/c++/11/bits/streambuf.tcc \
+  /usr/include/c++/11/bits/basic_ios.h \
+  /usr/include/c++/11/bits/locale_facets.h \
+  /usr/include/c++/11/cwctype \
+  /usr/include/wctype.h \
+  /usr/include/x86_64-linux-gnu/bits/wctype-wchar.h \
+  /usr/include/x86_64-linux-gnu/c++/11/bits/ctype_base.h \
+  /usr/include/c++/11/bits/streambuf_iterator.h \
+  /usr/include/x86_64-linux-gnu/c++/11/bits/ctype_inline.h \
+  /usr/include/c++/11/bits/locale_facets.tcc \
+  /usr/include/c++/11/bits/basic_ios.tcc \
+  /usr/include/c++/11/bits/ostream.tcc \
+  /usr/include/c++/11/istream \
+  /usr/include/c++/11/bits/istream.tcc \
+  ../utils.h \
+  ../map.h
 
 CMakeFiles/SDL_LESSON.dir/utils.cpp.o: ../utils.cpp \
   /usr/include/stdc-predef.h \
@@ -418,6 +448,42 @@ CMakeFiles/SDL_LESSON.dir/utils.cpp.o: ../utils.cpp \
   /usr/include/c++/11/tr1/riemann_zeta.tcc
 
 
+/usr/include/c++/11/bits/istream.tcc:
+
+/usr/include/c++/11/istream:
+
+/usr/include/x86_64-linux-gnu/c++/11/bits/ctype_inline.h:
+
+/usr/include/x86_64-linux-gnu/bits/wctype-wchar.h:
+
+../map.h:
+
+/usr/include/c++/11/cwctype:
+
+/usr/include/c++/11/bits/basic_ios.h:
+
+/usr/include/c++/11/streambuf:
+
+/usr/include/c++/11/stdexcept:
+
+/usr/include/c++/11/bits/locale_classes.tcc:
+
+/usr/include/c++/11/bits/locale_classes.h:
+
+/usr/include/c++/11/bits/ios_base.h:
+
+/usr/include/c++/11/bits/nested_exception.h:
+
+/usr/include/c++/11/bits/cxxabi_init_exception.h:
+
+/usr/include/c++/11/bits/exception_ptr.h:
+
+/usr/include/x86_64-linux-gnu/c++/11/bits/error_constants.h:
+
+/usr/include/c++/11/ios:
+
+/usr/include/c++/11/ostream:
+
 /usr/include/c++/11/bits/basic_string.tcc:
 
 /usr/include/c++/11/bits/charconv.h:
@@ -446,6 +512,8 @@ CMakeFiles/SDL_LESSON.dir/utils.cpp.o: ../utils.cpp \
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h:
 
+/usr/include/c++/11/bits/locale_facets.tcc:
+
 /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h:
 
 /usr/include/x86_64-linux-gnu/bits/setjmp.h:
@@ -461,6 +529,8 @@ CMakeFiles/SDL_LESSON.dir/utils.cpp.o: ../utils.cpp \
 /usr/include/c++/11/ext/alloc_traits.h:
 
 /usr/include/x86_64-linux-gnu/bits/sched.h:
+
+/usr/include/wctype.h:
 
 /usr/include/sched.h:
 
@@ -479,6 +549,8 @@ CMakeFiles/SDL_LESSON.dir/utils.cpp.o: ../utils.cpp \
 /usr/include/x86_64-linux-gnu/c++/11/bits/c++locale.h:
 
 /usr/include/c++/11/bits/localefwd.h:
+
+/usr/include/c++/11/bits/locale_facets.h:
 
 /usr/include/c++/11/bits/exception.h:
 
@@ -564,6 +636,8 @@ CMakeFiles/SDL_LESSON.dir/utils.cpp.o: ../utils.cpp \
 
 ../utils.cpp:
 
+/usr/include/c++/11/iostream:
+
 /usr/include/x86_64-linux-gnu/bits/fp-fast.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/11/include/uintrintrin.h:
@@ -630,6 +704,8 @@ CMakeFiles/SDL_LESSON.dir/utils.cpp.o: ../utils.cpp \
 
 /usr/include/x86_64-linux-gnu/sys/types.h:
 
+/usr/include/x86_64-linux-gnu/c++/11/bits/ctype_base.h:
+
 /usr/include/SDL2/SDL_main.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/11/include/clflushoptintrin.h:
@@ -664,6 +740,8 @@ CMakeFiles/SDL_LESSON.dir/utils.cpp.o: ../utils.cpp \
 
 /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h:
 
+/usr/include/c++/11/bits/basic_ios.tcc:
+
 /usr/include/SDL2/SDL_events.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct___jmp_buf_tag.h:
@@ -688,6 +766,8 @@ CMakeFiles/SDL_LESSON.dir/utils.cpp.o: ../utils.cpp \
 
 /usr/lib/gcc/x86_64-linux-gnu/11/include/avx5124fmapsintrin.h:
 
+/usr/include/c++/11/bits/streambuf_iterator.h:
+
 /usr/include/SDL2/SDL_config.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:
@@ -705,6 +785,8 @@ CMakeFiles/SDL_LESSON.dir/utils.cpp.o: ../utils.cpp \
 /usr/include/ctype.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/11/include/xsavesintrin.h:
+
+/usr/include/c++/11/typeinfo:
 
 /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:
 
@@ -759,6 +841,8 @@ CMakeFiles/SDL_LESSON.dir/utils.cpp.o: ../utils.cpp \
 /usr/include/c++/11/debug/debug.h:
 
 /usr/include/features-time64.h:
+
+/usr/include/c++/11/bits/streambuf.tcc:
 
 /usr/include/string.h:
 
@@ -914,6 +998,8 @@ CMakeFiles/SDL_LESSON.dir/utils.cpp.o: ../utils.cpp \
 
 /usr/lib/gcc/x86_64-linux-gnu/11/include/avx512vlintrin.h:
 
+/usr/include/c++/11/system_error:
+
 /usr/lib/gcc/x86_64-linux-gnu/11/include/cetintrin.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/11/include/mm_malloc.h:
@@ -986,6 +1072,8 @@ CMakeFiles/SDL_LESSON.dir/utils.cpp.o: ../utils.cpp \
 
 /usr/lib/gcc/x86_64-linux-gnu/11/include/avx512vnnivlintrin.h:
 
+/usr/include/c++/11/exception:
+
 /usr/lib/gcc/x86_64-linux-gnu/11/include/avx512vpopcntdqvlintrin.h:
 
 /usr/lib/gcc/x86_64-linux-gnu/11/include/avx512vp2intersectintrin.h:
@@ -1007,6 +1095,8 @@ CMakeFiles/SDL_LESSON.dir/utils.cpp.o: ../utils.cpp \
 /usr/include/SDL2/SDL_keyboard.h:
 
 /usr/include/SDL2/SDL_scancode.h:
+
+/usr/include/c++/11/bits/ostream.tcc:
 
 /usr/include/SDL2/SDL_mouse.h:
 
