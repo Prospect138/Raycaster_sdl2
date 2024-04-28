@@ -5,9 +5,10 @@ cmake_minimum_required(VERSION 3.0.0)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-add_executable(${PROJECT_NAME} main.cpp utils.cpp)
-add_compile_options(-Wall)
-add_compile_options(-Wextra)
+set(CMAKE_BUILD_TYPE Debug)
+
+add_executable(${PROJECT_NAME} main.cpp map.cpp player.cpp renderer.cpp utils.cpp)
+add_compile_options(-Wall -Wextra)
 
 INCLUDE(FindPkgConfig)
 
