@@ -9,4 +9,3 @@ Tested on Ubuntu 22.04.4 LTS.
 - add textures
 - add sprites
 - add some game logic
-- do something with handling input
