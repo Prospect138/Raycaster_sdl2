@@ -7,7 +7,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 set(CMAKE_BUILD_TYPE Debug)
 
-add_executable(${PROJECT_NAME} main.cpp map.cpp player.cpp renderer.cpp utils.cpp)
+add_executable(${PROJECT_NAME} main.cpp map.cpp player.cpp game_engine.cpp utils.cpp)
 add_compile_options(-Wall -Wextra)
 
 INCLUDE(FindPkgConfig)
