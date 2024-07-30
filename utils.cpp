@@ -1,13 +1,15 @@
 #include <cmath>
+#include "utils.h"
 
 namespace utils {
 
 void NormalizeAngle(double& angle){
-    if (360.0 < angle) {
-        angle -= 360 * (int(angle) / 360);
+    if (angle > 360.0) {
+        angle -= 360.0;
     }
     else if (angle < 0.0){
-        angle += 360 * ceil(abs(angle) / 360);
+        angle += 360.0;
     }
 }
+
 }

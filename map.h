@@ -1,3 +1,3 @@
 #pragma once
 
-extern int map[16][16];
+extern int map[45][45];
