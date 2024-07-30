@@ -1,4 +1,4 @@
-file:///home/kadamov/Pictures/Screenshots/Screenshot%20from%202024-07-07%2001-36-35.png
+![Alt text](./preview.png)
 # sdl_test
 My simple raycsater implementation on SDL2
 # build
