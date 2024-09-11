@@ -10,3 +10,4 @@ Tested on Ubuntu 22.04.4 LTS.
 - add npc
 - add shooting and death mechanics
 - add some game logic
+- give up and code some real shit
